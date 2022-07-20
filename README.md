@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Demo & Explanation
+
+A basic NFT minting webapp made with React, web3 and Solidity.
+
+You can find the smart contracts [here]().
+
+The application works on BSC Testnet.
+
+Demo : [furkaNft](https://furkanft.netlify.app/)
+
+![demo](https://i.ibb.co/YPCjkgz/Screen-Shot-2022-07-20-at-12-00-06.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
