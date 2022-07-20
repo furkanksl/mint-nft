@@ -2,7 +2,7 @@
 
 A basic NFT minting webapp made with React, web3 and Solidity.
 
-You can find the smart contracts [here]().
+You can find the smart contracts [here](https://github.com/furkanksl/mint-nft/tree/master/src/assets/blockchain/contracts).
 
 The application works on BSC Testnet.
 
