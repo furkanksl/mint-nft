@@ -2,3 +2,6 @@ export const FURKANKSL_CONTRACT_ADDRESS =
   "0x9D5d369403Dd19551f10C719D3fBe66E3f2cBF22";
 export const FURKANFT_CONTRACT_ADDRESS =
   "0xF1e5d2478dfAF105e2432FeB578CCBa73E6181F0";
+export const EXPLORE_URL = "https://testnet.bscscan.com/tx/";
+
+export const BSC_TESTNET_CHAIN_ID=97;
