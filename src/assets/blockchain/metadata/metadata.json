@@ -1,0 +1,9 @@
+{
+    "name" : "FURKAN NFT",
+    "description" : "It's over 9999!",    
+    "image" : "https://gateway.pinata.cloud/ipfs/QmRDKHBgSmmYmzCAsw5ZMZ22NWu4iesx9XbVQwEXaKZcNw",
+    "attributes": {
+        "level": 9999,
+        "class": "Legendary"
+    }
+}
